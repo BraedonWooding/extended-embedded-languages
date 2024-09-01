@@ -6,9 +6,9 @@
     ],
     "description": "Insert a Batch code block string",
     "body": [
-      "/*bat*/ ''",
+      "'''REM",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "C++ code block (string)": {
@@ -18,9 +18,9 @@
     ],
     "description": "Insert a C++ code block string",
     "body": [
-      "/*cpp*/ ''",
+      "'''//cpp",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "CSS code block (string)": {
@@ -30,9 +30,9 @@
     ],
     "description": "Insert a CSS code block string",
     "body": [
-      "/*css*/ ''",
+      "'''/*css*/",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "HTML code block (string)": {
@@ -42,9 +42,9 @@
     ],
     "description": "Insert a HTML code block string",
     "body": [
-      "/*html*/ ''",
+      "'''<html>",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "INI code block (string)": {
@@ -54,9 +54,9 @@
     ],
     "description": "Insert a INI code block string",
     "body": [
-      "/*ini*/ ''",
+      "''';ini",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "Javascript code block (string)": {
@@ -66,9 +66,9 @@
     ],
     "description": "Insert a Javascript code block string",
     "body": [
-      "/*js*/ ''",
+      "'''//js",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "JSON code block (string)": {
@@ -78,9 +78,9 @@
     ],
     "description": "Insert a JSON code block string",
     "body": [
-      "/*json*/ ''",
+      "'''",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "JSONC code block (string)": {
@@ -90,9 +90,9 @@
     ],
     "description": "Insert a JSONC code block string",
     "body": [
-      "/*jsonc*/ ''",
+      "'''//jsonc",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "Python code block (string)": {
@@ -102,9 +102,9 @@
     ],
     "description": "Insert a Python code block string",
     "body": [
-      "/*py*/ ''",
+      "'''#py",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "Shell code block (string)": {
@@ -114,9 +114,9 @@
     ],
     "description": "Insert a Shell code block string",
     "body": [
-      "/*sh*/ ''",
+      "'''#sh",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "SQL code block (string)": {
@@ -126,9 +126,9 @@
     ],
     "description": "Insert a SQL code block string",
     "body": [
-      "/*sql*/ ''",
+      "'''--sql",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "TOML code block (string)": {
@@ -138,9 +138,9 @@
     ],
     "description": "Insert a TOML code block string",
     "body": [
-      "/*toml*/ ''",
+      "'''#toml",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "XML code block (string)": {
@@ -150,9 +150,9 @@
     ],
     "description": "Insert a XML code block string",
     "body": [
-      "/*xml*/ ''",
+      "'''<?xml?>",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "YAML code block (string)": {
@@ -162,9 +162,9 @@
     ],
     "description": "Insert a YAML code block string",
     "body": [
-      "/*yaml*/ ''",
+      "'''#yaml",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "C code block (string)": {
@@ -174,9 +174,9 @@
     ],
     "description": "Insert a C code block string",
     "body": [
-      "/*c*/ ''",
+      "'''/*c*/",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "HLSL code block (string)": {
@@ -186,9 +186,9 @@
     ],
     "description": "Insert a HLSL code block string",
     "body": [
-      "/*hlsl*/ ''",
+      "'''//hlsl",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "GLSL code block (string)": {
@@ -198,9 +198,9 @@
     ],
     "description": "Insert a GLSL code block string",
     "body": [
-      "/*glsl*/ ''",
+      "'''//glsl",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "Metal code block (string)": {
@@ -210,9 +210,9 @@
     ],
     "description": "Insert a Metal code block string",
     "body": [
-      "/*metal*/ ''",
+      "'''//metal",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "WGSL code block (string)": {
@@ -222,9 +222,9 @@
     ],
     "description": "Insert a WGSL code block string",
     "body": [
-      "/*wgsl*/ ''",
+      "'''//wgsl",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "Lua code block (string)": {
@@ -234,9 +234,9 @@
     ],
     "description": "Insert a Lua code block string",
     "body": [
-      "/*lua*/ ''",
+      "'''--lua",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "Makefile code block (string)": {
@@ -246,9 +246,9 @@
     ],
     "description": "Insert a Makefile code block string",
     "body": [
-      "/*make*/ ''",
+      "'''#makefile",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "GraphQL code block (string)": {
@@ -258,9 +258,9 @@
     ],
     "description": "Insert a GraphQL code block string",
     "body": [
-      "/*graphql*/ ''",
+      "'''#graphql",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "TypeScript code block (string)": {
@@ -270,9 +270,9 @@
     ],
     "description": "Insert a TypeScript code block string",
     "body": [
-      "/*typescript*/ ''",
+      "'''//typescript",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "LaTeX code block (string)": {
@@ -282,9 +282,9 @@
     ],
     "description": "Insert a LaTeX code block string",
     "body": [
-      "/*latex*/ ''",
+      "'''%latex",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "TeX code block (string)": {
@@ -294,9 +294,9 @@
     ],
     "description": "Insert a TeX code block string",
     "body": [
-      "/*tex*/ ''",
+      "'''%tex",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "Graphviz code block (string)": {
@@ -306,9 +306,9 @@
     ],
     "description": "Insert a Graphviz code block string",
     "body": [
-      "/*graphviz*/ ''",
+      "'''//graphviz,digraph",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "ARM Assembly code block (string)": {
@@ -318,9 +318,9 @@
     ],
     "description": "Insert a ARM Assembly code block string",
     "body": [
-      "/*arm*/ ''",
+      "'''@arm",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "x86 / x64 Assembly code block (string)": {
@@ -330,9 +330,9 @@
     ],
     "description": "Insert a x86 / x64 Assembly code block string",
     "body": [
-      "/*x86*/ ''",
+      "''';x86",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "Handlebars code block (string)": {
@@ -342,9 +342,9 @@
     ],
     "description": "Insert a Handlebars code block string",
     "body": [
-      "/*hbs*/ ''",
+      "'''/*hbs*/",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "PowerShell code block (string)": {
@@ -354,9 +354,9 @@
     ],
     "description": "Insert a PowerShell code block string",
     "body": [
-      "/*ps1*/ ''",
+      "'''#ps1",
       "\t$0",
-      "`"
+      "'''"
     ]
   },
   "Markdown code block (string)": {
@@ -366,9 +366,9 @@
     ],
     "description": "Insert a Markdown code block string",
     "body": [
-      "/*md*/ ''",
+      "'''<!--md-->",
       "\t$0",
-      "`"
+      "'''"
     ]
   }
 }

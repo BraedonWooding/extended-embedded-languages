@@ -153,8 +153,8 @@ const HOST_LANGUAGE_SPECS = [
         syntax_builder: buildTomlSyntax,
         vsname: 'toml',
         embedded_scope: 'source.toml.embedded.codeblock',
-        snippet_start: '/*<ID>*/ \'\'',
-        snippet_end: '`',
+        snippet_start: '\'\'\'<COMMENT>',
+        snippet_end: '\'\'\'',
     },
 ];
 

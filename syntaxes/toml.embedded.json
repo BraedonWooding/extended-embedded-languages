@@ -10,7 +10,7 @@
   ],
   "repository": {
     "triple_quoted_strings": {
-      "comment": "These patterns all match toml triple-quoted strings and select one language.The syntax is injected into https://github.com/microsoft/vscode/blob/main/extensions/python/syntaxes/MagicPython.tmLanguage.json",
+      "comment": "These patterns all match toml triple-quoted strings and select one language.The syntax is injected into https://github.com/oovm/vscode-toml/blob/master/extension/toml.tmLanguage.json",
       "patterns": [
         {
           "comment": "Batch-formatted triple-quoted strings",
@@ -25,9 +25,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -50,9 +47,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -75,9 +69,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -100,9 +91,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -125,9 +113,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -150,9 +135,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -175,9 +157,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -200,9 +179,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -225,9 +201,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -250,9 +223,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -275,9 +245,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -300,9 +267,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -325,9 +289,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -350,9 +311,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -375,9 +333,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -400,9 +355,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -425,9 +377,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -450,9 +399,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -475,9 +421,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -500,9 +443,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -525,9 +465,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -550,9 +487,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -575,9 +509,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -600,9 +531,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -625,9 +553,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -650,9 +575,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -675,9 +597,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -700,9 +619,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -725,9 +641,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
@@ -750,9 +663,6 @@
           ],
           "beginCaptures": {
             "1": {
-              "name": "storage.type.string.toml"
-            },
-            "2": {
               "name": "punctuation.definition.string.begin.toml"
             }
           },
